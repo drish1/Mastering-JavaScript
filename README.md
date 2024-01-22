@@ -4,4 +4,5 @@ Topics will follow like:
 1. Environment followed
 2. Basic output operation
 3. Variable declaration
-4. Naming convention
+4. Difference between var, let and const
+5. Naming convention
