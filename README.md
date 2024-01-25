@@ -6,3 +6,4 @@ Topics will follow like:
 3. Variable declaration
 4. Difference between var, let and const
 5. Naming convention
+6. Datatypes
