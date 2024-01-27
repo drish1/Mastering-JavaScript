@@ -7,3 +7,4 @@ Topics will follow like:
 4. Difference between var, let and const
 5. Naming convention
 6. Datatypes
+7. Concatenation and Template literal
