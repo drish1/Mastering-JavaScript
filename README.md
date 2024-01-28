@@ -9,3 +9,4 @@ Topics will follow like:
 6. Datatypes
 7. Concatenation and Template literal
 8. Airthmetic Operations
+9. Type Conversion
