@@ -8,3 +8,4 @@ Topics will follow like:
 5. Naming convention
 6. Datatypes
 7. Concatenation and Template literal
+8. Airthmetic Operations
