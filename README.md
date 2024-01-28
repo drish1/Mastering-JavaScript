@@ -10,3 +10,5 @@ Topics will follow like:
 7. Concatenation and Template literal
 8. Airthmetic Operations
 9. Type Conversion
+10. Input from user using package readline-sync
+    
