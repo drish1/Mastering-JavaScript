@@ -12,3 +12,5 @@ Topics will follow like:
 9. Type Conversion
 10. Input from user using package readline-sync
     
+JavaScript Fundamentals:
+1. Comparison Operators
