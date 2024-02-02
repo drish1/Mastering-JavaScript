@@ -16,3 +16,5 @@ JavaScript Fundamentals:
 1. Comparison Operators
 2. Conditional Statements
 3. Nested Conditional Statements
+4. Ternary operator part1
+5. Ternary operator part2
