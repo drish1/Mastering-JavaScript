@@ -18,3 +18,5 @@ JavaScript Fundamentals:
 3. Nested Conditional Statements
 4. Ternary operator part1
 5. Ternary operator part2
+6. Logical Operators part1
+7. Logical Operators part2
