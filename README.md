@@ -20,3 +20,6 @@ JavaScript Fundamentals:
 5. Ternary operator part2
 6. Logical Operators part1
 7. Logical Operators part2
+8. Nullish Coalescing
+9. Nested Loop
+10. For loop
