@@ -23,3 +23,7 @@ JavaScript Fundamentals:
 8. Nullish Coalescing
 9. Nested Loop
 10. For loop
+11. erercise for
+12. while loop
+13. error handling - try catch block
+14. exercise while loop
