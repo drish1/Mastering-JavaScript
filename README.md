@@ -27,3 +27,6 @@ JavaScript Fundamentals:
 12. while loop
 13. error handling - try catch block
 14. exercise while loop
+
+Functional Programming
+1. Function declaration
