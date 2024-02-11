@@ -30,3 +30,6 @@ JavaScript Fundamentals:
 
 Functional Programming
 1. Function declaration
+2. Anonymous Function or Function Expression
+3. Return and undefined
+4. 
